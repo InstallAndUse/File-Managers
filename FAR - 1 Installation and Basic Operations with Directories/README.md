@@ -30,5 +30,5 @@ Shortcuts:
 - [F10] - finish workflow (quit)
 
 More information:
--	[FAR Manager - GitHub repository:](https://github.com/FarGroup/FarManager)
--	[FAR Manager - Forum of users and developers:](https://forum.farmanager.com/viewforum.php?f=26)
+-	[FAR Manager - GitHub repository](https://github.com/FarGroup/FarManager)
+-	[FAR Manager - Forum of users and developers](https://forum.farmanager.com/viewforum.php?f=26)
