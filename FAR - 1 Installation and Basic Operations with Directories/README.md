@@ -4,6 +4,14 @@ FAR manager - 1 Installation and Basic Operations with Directories
 Links, mentioned in the video:
 - Download FAR Manager from official website: https://www.farmanager.com/download.php?l=en
 
+Shortcuts:
+- ALT+F1 - change drive (mounting point) on the left panel
+- ALT+F2 - change drive (mounting point) on the right panel
+- F7 - create directory
+- F5 - copy
+- F6 - move
+- F10 - finish workflow (quit)
+
 
 More information:
 
