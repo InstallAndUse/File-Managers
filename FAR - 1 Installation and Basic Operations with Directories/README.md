@@ -32,3 +32,15 @@ Shortcuts:
 More information:
 -	[FAR Manager - GitHub repository](https://github.com/FarGroup/FarManager)
 -	[FAR Manager - Forum of users and developers](https://forum.farmanager.com/viewforum.php?f=26)
+
+
+InstallAndUse on social platforms:
+- Website https://installanduse.com
+- Facebook https://facebook.com/groups/installanduse
+- Instagram https://instagram.com/installanduse
+- Twitter https://twitter.com/InstallAndUse
+- GitHub https://github.com/InstallAndUse
+
+Gear used:
+- Website https://installanduse.com/gear
+- KIT.co https://kit.co/AntonTeterin (Links may contain Amazon Associates affiliated links)
