@@ -1,5 +1,5 @@
 # File-Managers
-In this repository you will find notes on how to use file managers, based on "File Managers" series of videos from YouTube channel InstallAndUse.
+In this repository you will find notes on how to use file managers for different operating systems, based on "File Managers" series of videos from YouTube channel InstallAndUse.
 
 Link to playlist:
 https://www.youtube.com/playlist?list=PLd62TsS0oOAduRDBjFz7WCJHNpnbmtQDb
