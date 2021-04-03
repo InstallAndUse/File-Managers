@@ -4,7 +4,7 @@ Links, mentioned in the video:
 - Download FAR Manager from official website: https://www.farmanager.com/download.php?l=en
 
 Shortcuts:
-- cursors and [ENTER] to change directories
+- cursors and [ENTER] - change directories
 - [TAB] - change focus between panels
 - [ALT+F1] - change drive (mounting point) on the left panel
 - [ALT+F2] - change drive (mounting point) on the right panel
