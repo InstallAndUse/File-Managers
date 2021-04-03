@@ -1,5 +1,6 @@
 [FAR manager - 1 Installation and Basic Operations with Directories](https://www.youtube.com/watch?v=gTd0LUdamlo)
 
+
 Timecodes:
 - [0:00​ Intro](https://www.youtube.com/watch?v=gTd0LUdamlo&t=0s)
 - [0:17​ Channel intro](https://www.youtube.com/watch?v=gTd0LUdamlo&t=17s)
@@ -31,7 +32,7 @@ Shortcuts:
 
 More information:
 -	[FAR Manager - GitHub repository](https://github.com/FarGroup/FarManager)
--	[FAR Manager - Forum of users and developers](https://forum.farmanager.com/viewforum.php?f=26)
+-	[FAR Manager - Forum for users and developers](https://forum.farmanager.com/viewforum.php?f=26)
 
 
 InstallAndUse on social platforms:
