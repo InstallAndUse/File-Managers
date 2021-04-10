@@ -29,6 +29,7 @@ Shortcuts:
 - [F7] - create directory
 - [F5] - copy
 - [F6] - move
+- [F8] - delete
 - [F10] - finish workflow (quit)
 
 More useful shortcuts (outside of video):
