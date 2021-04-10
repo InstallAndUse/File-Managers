@@ -1,5 +1,6 @@
 [FAR manager - 1 Installation and Basic Operations with Directories](https://www.youtube.com/watch?v=gTd0LUdamlo)
-
+part of ["File Managers" series](https://geni.us/gJnNca) videos
+from [InstallAndUse YouTube channel](https://geni.us/WvxAdmi).
 
 Timecodes:
 - [0:00​ Intro](https://www.youtube.com/watch?v=gTd0LUdamlo&t=0s)
@@ -29,6 +30,10 @@ Shortcuts:
 - [F5] - copy
 - [F6] - move
 - [F10] - finish workflow (quit)
+
+More useful shortcuts (outside of video):
+- [CTRL+PgUp] - change to upper directory, equivalent to : focusing on ".."+[ENTER]
+- [F1] - internal documentation on usage and keyboard shortcuts
 
 More information:
 -	[FAR Manager - GitHub repository](https://github.com/FarGroup/FarManager)
