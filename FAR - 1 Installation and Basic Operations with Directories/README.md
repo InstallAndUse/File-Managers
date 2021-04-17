@@ -43,9 +43,7 @@ More information:
 
 InstallAndUse on social platforms:
 - Website https://installanduse.com
-- Facebook https://facebook.com/groups/installanduse
 - Instagram https://instagram.com/installanduse
-- Twitter https://twitter.com/InstallAndUse
 - GitHub https://github.com/InstallAndUse
 - vKontakte https://vk.com/InstallAndUse
 
