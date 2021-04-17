@@ -3,8 +3,6 @@ part of ["File Managers" series](https://geni.us/gJnNca) videos
 from [InstallAndUse YouTube channel](https://geni.us/WvxAdmi).
 
 Timecodes:
-
-Timecodes:
 - (00:00​ Intro)[https://www.youtube.com/watch?v=nRyI4dFh2ak&t=0s]
 - (00:14​ Channel intro)[https://www.youtube.com/watch?v=nRyI4dFh2ak&t=14s]
 - (00:49​ Video intro)[https://www.youtube.com/watch?v=nRyI4dFh2ak&t=49s]
@@ -31,11 +29,14 @@ Timecodes:
 - (15:11​ Outro (what is in the next video))[https://www.youtube.com/watch?v=nRyI4dFh2ak&t=911s]
 
 Links, mentioned in the video:
-- [How to remap keys](https://InstallAndUse.com) (coming)
+- [How to remap keys](https://InstallAndUse.com) (coming soon)
 
 Shortcuts:
-- [F1] - internal documentation on usage and keyboard shortcuts
+- Ctrl+U - swap panels
+- Ctrl+L - show informational panel
 - Ctrl+Down - browse history (list drop-down menu, when available)
+- F1 - internal documentation on usage and keyboard shortcuts
+
 
 
 More useful shortcuts (outside of video):
@@ -48,6 +49,7 @@ InstallAndUse on social platforms:
 - Instagram https://instagram.com/installanduse
 - Twitter https://twitter.com/InstallAndUse
 - GitHub https://github.com/InstallAndUse
+- vKontakte https://vk.com/InstallAndUse
 
 Gear used:
 - Website https://installanduse.com/gear

@@ -47,6 +47,8 @@ InstallAndUse on social platforms:
 - Instagram https://instagram.com/installanduse
 - Twitter https://twitter.com/InstallAndUse
 - GitHub https://github.com/InstallAndUse
+- vKontakte https://vk.com/InstallAndUse
+
 
 Gear used:
 - Website https://installanduse.com/gear
