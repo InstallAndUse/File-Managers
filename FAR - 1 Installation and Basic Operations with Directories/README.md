@@ -52,3 +52,7 @@ InstallAndUse on social platforms:
 Gear used:
 - Website https://installanduse.com/gear
 - KIT.co https://kit.co/AntonTeterin (Links may contain Amazon Associates affiliated links)
+
+
+Music and sound effects:
+- Epidemic Sound https://www.epidemicsound.com/referral/h79ruh/

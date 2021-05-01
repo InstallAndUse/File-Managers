@@ -10,3 +10,7 @@ InstallAndUse on social platforms:
 - GitHub https://github.com/InstallAndUse
 - vKontakte https://vk.com/InstallAndUse
 - Telegram https://t.me/InstallAndUse
+
+
+Music and sound effects:
+- Epidemic Sound https://www.epidemicsound.com/referral/h79ruh/
