@@ -55,4 +55,4 @@ Gear used:
 
 
 Music and sound effects:
-- Epidemic Sound https://www.epidemicsound.com/referral/h79ruh/
+- Epidemic Sound https://geni.us/EpidemicSound-IAU
