@@ -50,7 +50,7 @@ InstallAndUse on social platforms:
 
 
 Gear used:
-- Website https://installanduse.com/gear
+- Website https://InstallAndUse.com/gear
 - KIT.co https://kit.co/AntonTeterin (Links may contain Amazon Associates affiliated links)
 
 
