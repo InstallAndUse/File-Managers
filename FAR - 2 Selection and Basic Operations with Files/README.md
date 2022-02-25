@@ -28,6 +28,11 @@ Timecodes:
 - [14:28​ Tip 2: Adjust selection pattern](https://www.youtube.com/watch?v=nRyI4dFh2ak&t=868s)
 - [15:11​ Outro (what is in the next video)](https://www.youtube.com/watch?v=nRyI4dFh2ak&t=911s)
 
+FAR-manager related videos:
+- [1 Installation and Basic Operations with Directories](https://youtu.be/gTd0LUdamlo)
+- [2 Selecting and Basic Operations with Files](https://youtu.be/nRyI4dFh2ak)
+- [3 Menu Bar, Basic Settings and Backup-Restore of Configuration](https://youtu.be/hEX0GdRU2Fw)
+
 Links, mentioned in the video:
 - [How to remap keys](https://InstallAndUse.com) (coming soon)
 

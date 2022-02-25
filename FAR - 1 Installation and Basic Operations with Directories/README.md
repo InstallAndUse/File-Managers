@@ -18,6 +18,12 @@ Timecodes:
 - [11:23​ Finish workflow (quit)](https://www.youtube.com/watch?v=gTd0LUdamlo&t=683s)
 - [11:34​ Summary and outro](https://www.youtube.com/watch?v=gTd0LUdamlo&t=694s)
 
+FAR-manager related videos:
+- [1 Installation and Basic Operations with Directories](https://youtu.be/gTd0LUdamlo)
+- [2 Selecting and Basic Operations with Files](https://youtu.be/nRyI4dFh2ak)
+- [3 Menu Bar, Basic Settings and Backup-Restore of Configuration](https://youtu.be/hEX0GdRU2Fw)
+
+
 Links, mentioned in the video:
 - [Download FAR Manager from official website](https://www.farmanager.com/download.php?l=en)
 

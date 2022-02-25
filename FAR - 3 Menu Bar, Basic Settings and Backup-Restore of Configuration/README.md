@@ -38,24 +38,21 @@ Timecodes:
 09:43 Import settings from command line (using command prompt)
 10:10 Summary
 
-
 FAR-manager related videos:
-1 Installation and Basic Operations with Directories: https://youtu.be/gTd0LUdamlo
-2 Selecting and Basic Operations with Files: https://youtu.be/nRyI4dFh2ak
-3 Menu Bar, Basic Settings and Backup-Restore of Configuration https://youtu.be/hEX0GdRU2Fw
-
+- [1 Installation and Basic Operations with Directories](https://youtu.be/gTd0LUdamlo)
+- [2 Selecting and Basic Operations with Files](https://youtu.be/nRyI4dFh2ak)
+- [3 Menu Bar, Basic Settings and Backup-Restore of Configuration](https://youtu.be/hEX0GdRU2Fw)
 
 InstallAndUse on social platforms:
- • Website https://InstallAndUse.com
- • GitHub repository https://github.com/InstallAndUse
- • Telegram https://t.me/InstallAndUse
- • Instagram https://www.instagram.com/installanduse  
- • vKontakte https://vk.com/InstallAndUse
-
+- Website https://InstallAndUse.com
+- GitHub repository https://github.com/InstallAndUse
+- Telegram https://t.me/InstallAndUse
+- Instagram https://www.instagram.com/installanduse  
+- vKontakte https://vk.com/InstallAndUse
 
 Gear used:
- • Website https://installanduse.com/gear
- • KIT.co  https://kit.co/AntonTeterin
+- Website https://installanduse.com/gear
+- KIT.co https://kit.co/AntonTeterin
 (Links may contain Amazon Associates affiliated links)
 
 
