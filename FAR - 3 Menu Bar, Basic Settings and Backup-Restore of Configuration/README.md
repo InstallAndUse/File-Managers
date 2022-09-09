@@ -47,7 +47,7 @@ InstallAndUse on social platforms:
 - Website https://InstallAndUse.com
 - GitHub repository https://github.com/InstallAndUse
 - Telegram https://t.me/InstallAndUse
-- Instagram https://www.instagram.com/installanduse  
+- Instagram https://www.instagram.com/installanduse
 - vKontakte https://vk.com/InstallAndUse
 
 Gear used:
@@ -58,3 +58,8 @@ Gear used:
 
 Music and sound effects:
 - Epidemic Sound https://geni.us/EpidemicSound-IAU
+
+
+
+Books:
+- [Anton's bookshelf](https://og2k.com/books/)

@@ -63,3 +63,7 @@ Gear used:
 
 Music and sound effects:
 - Epidemic Sound https://geni.us/EpidemicSound-IAU
+
+
+Books:
+- [Anton's bookshelf](https://og2k.com/books/)
